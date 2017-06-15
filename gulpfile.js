@@ -14,6 +14,9 @@ let aid = new vesta.TypescriptTarget({
         },
         tsconfig: (json, target) => {
 
+        },
+        module: (target) => {
+            return {'main-module': 'target-module'};
         }
     }
 });

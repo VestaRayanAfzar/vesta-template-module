@@ -20,10 +20,9 @@
     "url": "https://github.com/VestaRayanAfzar/vesta-template-module/issues",
     "email": "bishehsary@gmail.com"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@vesta/devmaid": "^0.2.2",
+    "@vesta/devmaid": "^0.2.6",
     "gulp": "^3.9.1"
   }
 }
